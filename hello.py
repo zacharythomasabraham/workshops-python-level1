@@ -1,2 +1,2 @@
-name = input('What is your name? ')
-print('Hello, ' + name)
+team = "Warriors"
+print("Hello " + team)
