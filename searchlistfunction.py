@@ -1,3 +1,7 @@
+#write a function
+#get user input 
+#use search function
+
 warriors = ["Stephen Curry", "Klay Thomson", "Dreymond Green" , "Andrew Bogut"]
 cavs = ["Lebron James", "Kyrie Irving", "Kevin Love" , "Mathew Dellavodova"]
 
